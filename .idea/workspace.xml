@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f812d7-67bd-4168-9fad-633b23586ed0" name="Changes" comment="">
+    <list default="true" id="27f812d7-67bd-4168-9fad-633b23586ed0" name="Changes" comment="chore: configure gradle multi-module project structure">
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Coding_Test" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Practical_Algorithm" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Servlet2Spring" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TDD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-calculator-7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-lotto-7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java-racingcar-7" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../s2sJDBC/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../s2sJDBC/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../s2sJDBC/.idea/dataSources.xml" afterDir="false" />
@@ -28,16 +24,28 @@
       <change afterPath="$PROJECT_DIR$/../s2sJDBC/src/main/java/org/servlet2spring/s2sjdbc/HelloServlet.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../s2sJDBC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../s2sJDBC/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/spring-kafka-practice.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/9.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/libs/spring-kafka-practice.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-send-consumer/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/email-send-consumer/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-send-consumer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-send-consumer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-send-consumer/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-send-consumer/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/email-send-consumer/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,24 +76,27 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3EWkIoHgmYHNG2xFRwkknT1Dkho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle./Users/jiyoon/Documents/git/spring-kafka-practice/settings.gradle.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jiyoon/Documents/git/spring-kafka-practice&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle./Users/jiyoon/Documents/git/spring-kafka-practice/settings.gradle.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jiyoon/Documents/git/spring-kafka-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Spring Boot.EmailSendConsumerApplication">
     <configuration name="EmailSendConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
@@ -125,8 +136,18 @@
       <workItem from="1780303747607" duration="200000" />
       <workItem from="1780303952855" duration="93000" />
       <workItem from="1780304056420" duration="67000" />
-      <workItem from="1780304138085" duration="13000" />
+      <workItem from="1780304138085" duration="718000" />
+      <workItem from="1780304866339" duration="62000" />
     </task>
+    <task id="LOCAL-00001" summary="chore: configure gradle multi-module project structure">
+      <option name="closed" value="true" />
+      <created>1780304319217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780304319217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,5 +163,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/email-send-producer" />
+    </ignored-roots>
+    <MESSAGE value="chore: configure gradle multi-module project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: configure gradle multi-module project structure" />
   </component>
 </project>

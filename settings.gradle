@@ -1,0 +1,4 @@
+rootProject.name = 'spring-kafka-practice'
+
+include 'email-send-producer'
+include 'email-send-consumer'

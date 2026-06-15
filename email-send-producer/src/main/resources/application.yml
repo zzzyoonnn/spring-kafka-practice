@@ -1,6 +1,8 @@
 spring:
   kafka:
-    bootstrap-servers: 54.180.124.89:9092
+    bootstrap-servers: 43.201.96.57:9092
     producer:
       key-serializer: org.apache.kafka.common.serialization.StringSerializer
       value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      properties:
+        partitioner.class: org.apache.kafka.clients.producer.RoundRobinPartitioner

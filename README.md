@@ -8,6 +8,7 @@ This repository explores the fundamentals of Apache Kafka and demonstrates how a
 
 ## Architecture
 
+<img width="700" alt="3" src="https://github.com/user-attachments/assets/9e5a0f0a-3eb9-4a90-a0f9-ab6704b49dad" />
 
 
 In this example:
